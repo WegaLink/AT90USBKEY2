@@ -1,0 +1,8 @@
+/src/USBdevice/USBdevice/Debug
+/Runtime/*.ilk
+/Runtime/*.metagen
+/Runtime/*.pdb
+/TestUSB.VS2013/Debug
+/TestUSB.VS2013/Release
+/TestUSB.VS2013/*.sdf
+/TestUSB.VS2013/*.suo
