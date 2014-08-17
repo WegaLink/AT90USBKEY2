@@ -6,3 +6,4 @@
 /TestUSB.VS2013/Release
 /TestUSB.VS2013/*.sdf
 /TestUSB.VS2013/*.suo
+/runtime/*.pdb
